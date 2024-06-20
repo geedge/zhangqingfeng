@@ -1,0 +1,5 @@
+ImportTool.rar是用户身份导入工具
+
+create_IM_ID_info_new是生成新的用户身份
+
+TorIM2是电脑端软件
